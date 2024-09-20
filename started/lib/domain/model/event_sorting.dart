@@ -1,4 +1,0 @@
-enum EventSorting {
-  byName,
-  byDate,
-}
